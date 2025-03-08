@@ -58,3 +58,8 @@ mvn org.pitest:pitest-maven:mutationCoverage
 ```sh
 mvn jacoco:report
 ```
+
+## 📊 **Revisión de analisis estatico de codigo**
+```sh
+mvn checkstyle:check
+```

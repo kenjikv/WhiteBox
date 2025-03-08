@@ -1,5 +1,6 @@
 package org.example;
 
+// Prueba de bucle
 public class LoopExample {
     public int sumUpTo(int n) {
         int sum = 0;
