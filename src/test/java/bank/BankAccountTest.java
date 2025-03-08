@@ -2,7 +2,7 @@ package bank;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import org.example.BankAccount;
+import org.example.bank.BankAccount;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
