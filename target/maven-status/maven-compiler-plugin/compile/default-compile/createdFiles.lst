@@ -5,6 +5,8 @@ org/example/DataFlowExample.class
 org/example/MutationExample.class
 org/example/bank/Transaction.class
 org/example/ControlFlowExample.class
+org/example/bank/BankAccount.class
+org/example/controller/BankAccountController.class
 org/example/LoopExample.class
-org/example/BankAccount.class
+org/example/BankApplication.class
 org/example/bank/Bank.class
